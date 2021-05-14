@@ -1,0 +1,6 @@
+[*.py]
+indent_style = tab
+
+[*.js]
+ident_style = tab
+
